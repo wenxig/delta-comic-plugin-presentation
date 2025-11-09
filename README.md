@@ -1,0 +1,28 @@
+# Delta Comic Plugin Presentation
+
+[![GitHub](https://img.shields.io/github/license/wenxig/delta-comic-plugin-presentation)](https://raw.githubusercontent.com/wenxig/delta-comic-plugin-presentation/main/LICENSE)
+
+- [delta-comic](https://github.com/wenxig/delta-comic)的插件
+
+## 功能
+
+- 给我的面试做的插件，生成健康的假数据
+
+## 如何使用
+
+- 将release的latest的js源码链接填入"添加插件"的地址栏
+
+## 想要编写插件?
+
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic-core)](https://github.com/wenxig/delta-comic-core)  
+ 该包可为你提供许多基本的数据结构, 与便捷的`definePlugin`
+
+## 源项目
+
+### Delta Comic
+
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wenxig&repo=delta-comic)](https://github.com/wenxig/delta-comic)  
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wenxig/delta-comic-plugin-presentation&type=Date)](https://www.star-history.com/#wenxig/delta-comic-plugin-presentation&Date)
